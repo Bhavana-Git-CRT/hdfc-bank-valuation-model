@@ -4,7 +4,7 @@ A two-part equity valuation of **HDFC Bank** (NSE: HDFCBANK), built as a portfol
 
 ## Why this project
 
-Most student valuation models apply a standard DCF to any company. Banks don't work that way — leverage is core to their business model, not a financing choice, so a normal free-cash-flow DCF breaks down. This project instead uses the two methods banking analysts actually use:
+Most student valuation models apply a standard DCF to any company. Banks don't work that way — leverage is core to their business model, not a financing choice, so a normal free-cash-flow DCF breaks down. This project instead uses the two methods banking analysts actually ue:
 
 1. **Trading Comparables** — HDFC Bank benchmarked against ICICI Bank, Axis Bank, Kotak Mahindra Bank, and SBI on P/E, P/B, and ROE
 2. **Dividend Discount Model (DDM)** — a two-stage DDM with a CAPM-derived cost of equity, plus a sensitivity table
